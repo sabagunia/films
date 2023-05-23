@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color: yellow;
+}
+h1 {
+  color:turquoise;
+  text-align: center;
+}
+p {
+ text-align: center;
+   color: turquoise;
+}
+img src {
+  height: 50 px;
+   width: 50 px;
+}
