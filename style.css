@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: yellow;
+}
+ h1 {
+    text-align: center;
+     color: turquoise;
+ }
+   h2 {
+
+       text-align: center;
+       color: turquoise;
+   }
+
+a {
+    text-align: center;
+    text-align:down;
+    color:turquoise;
+}
+img {
+ height: 250px;
+   width: 260px;
+   text-align: center;
+}
+p{
+  text-align: center;
+   color: turquoise;
+   
+}
